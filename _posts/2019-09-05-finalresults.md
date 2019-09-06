@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resultados finais: até que ponto podemos confiar em um modelo de rede neural?
-categories: [Article,Results]
+categories: [Article,Results,Graphs,Augmented]
 --- 
 
 Os testes finais contra os datasets de teste fornecerem informações contraditórias. De um lado, os modelos obtidos com a base CPD obtiveram um desempenho muito bom no conjunto de teste CPD, mas um desempenho ruim no conjunto SLD. Os modelos obtidos com SLd obtiveram resultados razoáveis, entretanto similares em ambas as bases. Isso sugere que a base CPD é mais suscetível a vícios. 
